@@ -1,1 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/di70t96acvil5l4m?svg=true)](https://ci.appveyor.com/project/ruslanraindrop/react1-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/rlqgtub13au4tiji?svg=true)](https://ci.appveyor.com/project/ruslanraindrop/react2-1)
+
+[GitHub Pages](https://ruslanraindrop.github.io/react2.1/)
